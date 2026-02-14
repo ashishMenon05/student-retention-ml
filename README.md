@@ -240,7 +240,6 @@ Student_Retention_Project/
 ├── dataset.csv
 ├── Student_Retention_Notebook.ipynb
 ├── README.md
-└── Report.pdf (optional)
 ```
 
 ---
@@ -261,18 +260,4 @@ Machine learning models like this can significantly enhance institutional decisi
 
 ---
 
-## 👤 Author
-
-Your Name  
-Course: AI / Machine Learning  
-Submission Date: __________  
-
----
-
-## 🏁 Status
-
-✅ Model Trained  
-✅ Evaluated  
-✅ Documented  
-✅ Ready for Submission  
 
